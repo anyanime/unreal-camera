@@ -1,0 +1,21 @@
+{
+  "name": "unreal-camera",
+  "description": "practice unreal webcam fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.css *.html, *.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyanime/unreal-camera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyanime/unreal-camera/issues"
+  },
+  "homepage": "https://github.com/anyanime/unreal-camera#readme"
+}
